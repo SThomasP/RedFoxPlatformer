@@ -1,10 +1,14 @@
-# GDAD-CW1
+# Red Fox Platformer
 
-COMP3218 Game Design and Development first game. Theme is tutorial level to introduce a new dynamic.
+Created for University of SOuthampton COMP3218 Game Design and Development Coursework Cne where the theme of the coursework was to make a tutorial level to introduce a new dynamic.
 
 ## Mechanics/Dynamics to introduce
 
 * Jumping
 * Crouch to charge jumping
-* Crouch to charge jump breaks blocks, destroys enemies
-* Keys/locked doors?
+
+## Contributers
+
+* Steffan Pade
+* Scott Williams
+* Lucas Noyau
