@@ -1,0 +1,13 @@
+{
+"companyName": "LucasScottAndSteffan",
+"productName": "GDAD - Red Fox Platformer",
+"dataUrl": "ReleaseBuild.data.unityweb",
+"asmCodeUrl": "ReleaseBuild.asm.code.unityweb",
+"asmMemoryUrl": "ReleaseBuild.asm.memory.unityweb",
+"asmFrameworkUrl": "ReleaseBuild.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
